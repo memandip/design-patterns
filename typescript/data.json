@@ -1,0 +1,12 @@
+[
+  {
+    "id": "Armadillo",
+    "attack": 60,
+    "defense": 80
+  },
+  {
+    "id": "TRex",
+    "attack": 90,
+    "defense": 30
+  }
+]
